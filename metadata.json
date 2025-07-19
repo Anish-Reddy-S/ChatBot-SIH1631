@@ -1,0 +1,6 @@
+{
+  "name": "CampusAssist",
+  "description": "An AI-powered chatbot to assist students with their campus-related inquiries. Get help with admissions, courses, events, and more.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
